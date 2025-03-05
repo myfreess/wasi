@@ -1,5 +1,6 @@
 {
   "import": [
     "peter-jerry-ye/wasi/internal/ffi"
-  ]
+  ],
+  "supported-targets": ["wasm"]
 }
